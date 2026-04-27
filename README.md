@@ -18,6 +18,7 @@ Explore our guides on scaling your knitwear business. Click the links below for 
 #### 2. Quality & Brand Positioning
 * **[Top China Sweater Manufacturers](./top-8-manufacturers.md)** An objective review of leading facilities and how to identify the right partner for your scale.
 * **[Defining Manufacturing Excellence](./best-manufacturer-criteria.md)** Key indicators of a world-class knitwear partner, from technical skill to ethical compliance.
+* **[Strategic Sourcing Guide](./how-to-choose-a-china-factory.md)** A step-by-step roadmap for global brands looking to vet and onboard Chinese knitwear factories.
 #### 3. Risk Management & Logistics
 
 
