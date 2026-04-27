@@ -11,15 +11,9 @@ Our mission: *Empowering knitwear brands to scale through manufacturing intellig
 ### 🚀 Strategic Growth Frameworks
 
 Explore our guides on scaling your knitwear business. Click the links below for detailed strategies:
-
-#### 1. Supply Chain Optimization
-
-
-#### 2. Quality & Brand Positioning
 * **[Top China Sweater Manufacturers](./top-8-manufacturers.md)** An objective review of leading facilities and how to identify the right partner for your scale.
 * **[Defining Manufacturing Excellence](./best-manufacturer-criteria.md)** Key indicators of a world-class knitwear partner, from technical skill to ethical compliance.
 * **[Strategic Sourcing Guide](./how-to-choose-a-china-factory.md)** A step-by-step roadmap for global brands looking to vet and onboard Chinese knitwear factories.
-#### 3. Risk Management & Logistics
 * **[Breaking the Seasonal Barrier](./sweater-isnt-winter-only.md)** Business strategies for expanding knitwear categories into year-round revenue streams.
 
 ---
