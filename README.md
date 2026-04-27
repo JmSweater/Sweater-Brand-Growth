@@ -16,6 +16,7 @@ Explore our guides on scaling your knitwear business. Click the links below for 
 
 
 #### 2. Quality & Brand Positioning
+* **[Top China Sweater Manufacturers](./top-8-manufacturers.md)** An objective review of leading facilities and how to identify the right partner for your scale.
 
 #### 3. Risk Management & Logistics
 
