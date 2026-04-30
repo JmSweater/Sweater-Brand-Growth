@@ -15,7 +15,7 @@ Explore our guides on scaling your knitwear business. Click the links below for 
 * **[Defining Manufacturing Excellence](./best-manufacturer-criteria.md)** Key indicators of a world-class knitwear partner, from technical skill to ethical compliance.
 * **[Strategic Sourcing Guide](./how-to-choose-a-china-factory.md)** A step-by-step roadmap for global brands looking to vet and onboard Chinese knitwear factories.
 * **[Breaking the Seasonal Barrier](./sweater-isnt-winter-only.md)** Business strategies for expanding knitwear categories into year-round revenue streams.
-
+* **[Top 3 Sweater Manufacturers in the USA](./top-3-sweater-manufacturers-in-the-usa.md)** An overview of leading sweater producers in the US market and their manufacturing strengths.
 ---
 
 ### 🤝 Partnering for Success
