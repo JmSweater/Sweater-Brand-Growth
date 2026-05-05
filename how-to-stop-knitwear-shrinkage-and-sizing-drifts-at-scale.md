@@ -1,6 +1,7 @@
-# How to Stop Knitwear Shrinkage and Sizing Drifts at Scale
+# [How to Stop Knitwear Shrinkage and Sizing Drifts at Scale](https://jmsweater.com/blog/scale-knitwear-production-quality-control/)
+<div align="center"><img src="https://github.com/JmSweater/Sweater-Brand-Growth/blob/main/fSrxRZ7qh.jpeg?raw=true" style="width:500px"></div>
 
-> **From 50 to 50,000 units — Engineering a "Self-Correcting" Quality System for Knitwear Manufacturing.**
+**From 50 to 50,000 units — Engineering a "Self-Correcting" Quality System for Knitwear Manufacturing.**
 
 In B2B apparel production, scaling from a few hundred units to tens of thousands often introduces "bugs" into the physical product: uneven stitches, mismatched dimensions, and post-wash shrinkage. At **JM Sweater**, we treat knitwear production like software engineering—it’s not about knitting faster; it’s about the integrity of the system.
 
@@ -15,6 +16,8 @@ Once production scales across 100+ machines, small variables in tension or ambie
 *   **Digital Parameter Locking**: Every setting—loop length, stitch cam depth, and take-down tension—is digitized and committed to the machine's control system. Operators are restricted from modifying these "production scripts" without a supervisor’s encryption key.
 *   **Environment Standardization**: Yarn is a highly sensitive material. Our workshop maintains a strict "Runtime Environment" of **22°C (±2°C) and 65% (±5%) RH** 24/7. This climate stability is the foundation for manufacturing identical physical assets at scale.
 *   **The 2-Hour Unit Test**: Every two hours, we pull a random sample for a physical stretch audit. If the "output" deviates more than **3%** from the master sample, we halt the line and recalibrate immediately.
+  
+<div align="center"><img src="https://jmsweater.com/uploads/202654/20260504155162596259.webp" style="width:500px" alt="A technical operator measuring knitwear stitch density and loop length to ensure consistent quality during mass production."></div>
 
 ## 2. Process Integrity: Why Flat Knitting Wins for "Affordable Luxury"
 
