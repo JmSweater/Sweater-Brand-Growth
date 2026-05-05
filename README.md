@@ -16,6 +16,7 @@ Explore our guides on scaling your knitwear business. Click the links below for 
 * **[Strategic Sourcing Guide](./how-to-choose-a-china-factory.md)** A step-by-step roadmap for global brands looking to vet and onboard Chinese knitwear factories.
 * **[Breaking the Seasonal Barrier](./sweater-isnt-winter-only.md)** Business strategies for expanding knitwear categories into year-round revenue streams.
 * **[Top 3 Sweater Manufacturers in the USA](./top-3-sweater-manufacturers-in-the-usa.md)** An overview of leading sweater producers in the US market and their manufacturing strengths.
+* **[How to Stop Knitwear Shrinkage and Sizing Drifts at Scale](./how-to-stop-knitwear-shrinkage-and-sizing-drifts-at-scale.md)** A technical guide on controlling dimensional stability and ensuring sizing precision during mass production.
 ---
 
 ### 🤝 Partnering for Success
