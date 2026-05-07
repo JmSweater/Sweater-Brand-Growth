@@ -18,6 +18,7 @@ Explore our guides on scaling your knitwear business. Click the links below for 
 * **[Top 3 Sweater Manufacturers in the USA](./top-3-sweater-manufacturers-in-the-usa.md)** An overview of leading sweater producers in the US market and their manufacturing strengths.
 * **[How to Stop Knitwear Shrinkage and Sizing Drifts at Scale](./how-to-stop-knitwear-shrinkage-and-sizing-drifts-at-scale.md)** A technical guide on controlling dimensional stability and ensuring sizing precision during mass production.
 * **[How to Bridge the Gap Between a Perfect Prototype and Stable Bulk Production](./how-to-bridge-the-gap-from-perfect-prototype-to-stable-bulk-production.md)** A technical framework for eliminating hidden defects and ensuring consistency when transitioning from sample to mass production.
+* **[Stop Getting Ghosted by Middlemen Pretending to Be Factories](./stop-getting-ghosted-by-middle-men-pretending-to-be-factories.md)** A strategic framework for vetting direct suppliers and securing transparent communication channels in global sourcing.
 ---
 
 ### 🤝 Partnering for Success
