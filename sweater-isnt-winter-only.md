@@ -53,7 +53,7 @@ Stop fighting over pennies on basic knits. It’s time to upgrade your technical
 ## 📩 Get in Touch
 For technical consultations, custom sampling, or bulk inquiries:
 - **Email:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
-- **Website:** [jmsweater.com](https://jmsweater.com)
+- **Website:** [Custom Sweater Manufacturer](https://jmsweater.com)
 ---
 
 ### Tags
