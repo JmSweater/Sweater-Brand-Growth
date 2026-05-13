@@ -58,7 +58,7 @@ With over **15 years of OEM & ODM experience**, we specialize in technical consu
 The innovation continues beyond the trade show floor. Whether you missed us in Hong Kong or want to deep-dive into our technical specs, we are ready to collaborate.
 
 *   **Technical White Papers:** Available for download on our website.
-*   **Direct Inquiry:** [Contact JM Sweater Engineering](https://jmsweater.com)
+*   **Direct Inquiry:** [Custom Sweater Manufacturer](https://jmsweater.com)
 *   **Location:** Guangzhou, China (3,000 sqm production base).
 
 ---
