@@ -64,7 +64,7 @@ Lead-Time: Scalable Prototype-to-Production
 If you are an independent designer or a brand lead looking to fork a high-standard supply chain, connect via:
 
 * **Endpoint:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
-* **Docs:** [JMSweater](https://jmsweater.com)
+* **Docs:** [China Sweater Factory](https://jmsweater.com)
 ---
 
 > Note: This documentation is optimized for 2026 supply chain standards. Keep your dependencies (vendors) updated for maximum market compatibility.
