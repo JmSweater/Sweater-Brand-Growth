@@ -25,7 +25,7 @@ This document outlines the engineering protocols behind **JM Sweater** [Alibaba 
 ## 📩 Contact & Technical Inquiry
 As a data-driven **best manufacturer**, we provide full transparency for every batch.
 ![Alibaba Top 1 Ranked Sweater Manufacturer's US Customer Reviews](https://jmsweater.com/uploads/2026421/20260421103876917691.webp)
-* **Official Website:** [JMSweater](https://jmsweater.com)
+* **Official Website:** [China Sweater Manufacturer](https://jmsweater.com)
 * **Alibaba Store:** [JM Sweater Manufacturer Store](https://jmsweater.en.alibaba.com/)
 * **Direct Contact:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
 
