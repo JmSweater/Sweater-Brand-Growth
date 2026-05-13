@@ -37,7 +37,7 @@ If a specific material (e.g., 100% recycled cashmere) cannot meet the durability
 Consistency is an engineering discipline. We build these safeguards into our daily workflow to ensure your brand's growth is supported by stable, repeatable manufacturing.
 
 ### 📇 Contact Documentation
-*   **Organization**: [JM Sweater Manufacturer](https://jmsweater.com)
+*   **Organization**: [Custom Sweater Factory](https://jmsweater.com)
 *   **Location**: Guangzhou, Guangdong, China
 *   **WhatsApp/WeChat**: `[+86 185 2011 1505]`
 *   **Email**: [admin@jmsweater.com](mailto:admin@jmsweater.com)
