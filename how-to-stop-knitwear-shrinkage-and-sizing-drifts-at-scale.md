@@ -36,7 +36,7 @@ Scaling isn’t a finish line; it’s a system of linked disciplines. We’ve bu
 **Want a technical deep-dive or a feasibility assessment for your next collection? Let's connect.**
 
 ### 📇 Contact Information
-*   **Organization**: [JM Sweater Manufacturer](https://jmsweater.com)
+*   **Organization**: [China Sweater Factory](https://jmsweater.com)
 *   **Location**: Guangzhou, Guangdong, China
 *   **Email**: [admin@jmsweater.com](mailto:admin@jmsweater.com)
 
