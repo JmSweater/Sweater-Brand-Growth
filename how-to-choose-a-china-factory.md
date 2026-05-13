@@ -87,6 +87,6 @@ Sourcing from China is not about finding the lowest quote; it’s about finding 
 
 If you are looking for a reliable technical partner for your next knitwear collection, or have questions regarding specific gauges and materials, feel free to reach out.
 
-*   **🌐 Official Website**: [jmsweater.com](https://jmsweater.com)
+*   **🌐 Official Website**: [China Sweater Manufacturer](https://jmsweater.com)
 *   **📧 Email Inquiries**: [admin@jmsweater.com](mailto:admin@jmsweater.com)
 *   **📍 Factory Location**: Guangdong Province, China
