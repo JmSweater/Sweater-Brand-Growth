@@ -85,6 +85,6 @@ If you are a brand owner looking for a technical assessment of your Tech Pack, l
     
     *   **Email:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
     *   **WhatsApp/WeChat:** [+86-185-2011-1505]
-    *   **Website:** [JMSweater](https://jmsweater.com)
+    *   **Website:** [China Sweater Manufacturer](https://jmsweater.com)
 
 ---
