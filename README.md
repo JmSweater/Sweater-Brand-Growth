@@ -20,6 +20,7 @@ Explore our guides on scaling your knitwear business. Click the links below for 
 * **[How to Bridge the Gap Between a Perfect Prototype and Stable Bulk Production](./how-to-bridge-the-gap-from-perfect-prototype-to-stable-bulk-production.md)** A technical framework for eliminating hidden defects and ensuring consistency when transitioning from sample to mass production.
 * **[Stop Getting Ghosted by Middlemen Pretending to Be Factories](./stop-getting-ghosted-by-middle-men-pretending-to-be-factories.md)** A strategic framework for vetting direct suppliers and securing transparent communication channels in global sourcing.
 * **[Why your high-end knitwear design feels "cheap" after sampling (and how to fix it)](./why-your-hign-end-knitwear-design-feels-cheap-after-sampling.md)** A strategic framework for vetting direct suppliers and securing transparent communication channels in global sourcing. Rooted in technical logic, this guide helps you bypass the "Middleman Tax" and interface directly with factory hardware to ensure your vision remains uncompromised from tech pack to final stitch.
+* **[From 5,000 to 80,000 Units: The Supply Chain Story Behind a NYC Brand](./scaling-premium-knitwear-supply-from-5000-to-80000-annual-units.md)** A custom sweater manufacturer’s honest take on what it actually takes to scale without quality drift.
 ---
 
 ### 🤝 Partnering for Success
