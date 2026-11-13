@@ -23,6 +23,7 @@ Explore our guides on scaling your knitwear business. Click the links below for 
 * **[From 5,000 to 80,000 Units: The Supply Chain Story Behind a NYC Brand](./scaling-premium-knitwear-supply-from-5000-to-80000-annual-units.md)** A custom sweater manufacturer’s honest take on what it actually takes to scale without quality drift.
 * **[How to Scale a Knitwear Brand from 5,000 to 80,000 Units (Without Quality Drift)](./how-to-scale-a-knitwear-brand-from-5000-to-80000-units-without-quality-drift.md)** An engineering-grade framework by JM Sweater on how brands scale from a 50-piece launch to 80,000 units without "quality drift."
 * **[The 2026 Knitwear Sourcing Illusion: Why FOB Unit Price is a Deceptive Metric](./why-fob-unit-price-is-a-deceptive-metric.md)** In 2026, garment sourcing must shift from cheap unit prices to verifiable technical data: premium hardware, strict compliance, and low-MOQ agility. 
+* **[Top 5 Sweater Manufacturers in the USA | OEM/ODM Guide](./usa-sweater-manufacturers-oem-odm-guide.md)** A technical benchmark of leading U.S. domestic knitwear mills, comparing core machinery, gauge capabilities, and flexible MOQ models—from 0-MOQ 3D seamless on-demand knitting to vertical heavy-gauge production.
 ---
 
 ### 🤝 Partnering for Success
